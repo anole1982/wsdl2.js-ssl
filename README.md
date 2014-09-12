@@ -10,6 +10,10 @@ For use the wsdl2.js-ssl:
 
 The new options ``-pfx`` and ```-passphrase``` are optional. Are only needed for TLS/SSL.
 
+#### Where do I find it?
+Either get it from npm:
+
+- ```sudo npm install -g wsdl2.js-ssl```
 
 ---
 
