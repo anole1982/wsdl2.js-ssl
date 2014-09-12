@@ -1,15 +1,17 @@
 {
-  "author": "Oliver Rumbelow <oliver.rumbelow@holidayextras.com> (http://www.holidayextras.co.uk/)",
-  "name": "wsdl2.js",
-  "description": "Consumes a WSDL file and produces a high quality, manageable Javascript library",
+  "author": "Ricardo Sousa <ricardo.sousa@challenge.pt> (http://www.challenge.pt/)",
+  "name": "wsdl2.js-ssl",
+  "description": "Consumes a WSDL file and produces a high quality, manageable Javascript library with TLS/SSL support.",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/holidayextras/wsdl2.js.git"
+    "url": "https://github.com/challengeit/wsdl2.js-ssl.git"
   },
   "keywords": [
     "soap",
     "wsdl",
+    "ssl",
+    "tls",
     "generator",
     "converter"
   ],
@@ -21,6 +23,7 @@
     "node": "*"
   },
   "preferGlobal": "true",
-  "bin" : { "wsdl2.js" : "./wsdl2.js" },
+  "main": "wsdl2-ssl.js",
+  //"bin" : { "wsdl2.js-ssl" : "./wsdl2-ssl.js" },
   "license": "GPL"
 }
