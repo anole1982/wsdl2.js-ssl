@@ -2,7 +2,7 @@
   "author": "Ricardo Sousa <ricardo.sousa@challenge.pt> (http://www.challenge.pt/)",
   "name": "wsdl2.js-ssl",
   "description": "Consumes a WSDL file and produces a high quality, manageable Javascript library with TLS/SSL support.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/challengeit/wsdl2.js-ssl.git"
