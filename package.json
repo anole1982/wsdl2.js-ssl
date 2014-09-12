@@ -24,6 +24,5 @@
   },
   "preferGlobal": "true",
   "main": "wsdl2-ssl.js",
-  //"bin" : { "wsdl2.js-ssl" : "./wsdl2-ssl.js" },
   "license": "GPL"
 }
