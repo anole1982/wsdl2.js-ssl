@@ -23,6 +23,6 @@
     "node": "*"
   },
   "preferGlobal": "true",
-  "bin" : { "wsdl2.js-sll" : "./wsdl2-ssl.js" },
+  "bin" : { "wsdl2.js-ssl" : "./wsdl2-ssl.js" },
   "license": "GPL"
 }
