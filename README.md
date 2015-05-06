@@ -6,7 +6,7 @@ At this point, only PFX and PKCS12 formats are supported.
 
 For use the wsdl2.js-ssl: 
 
-- ```wsdl2.js-sll [serviceName] [/local/path/to/wsdl] -pfx=[/local/path/to/pfx_p12] -passphrase="password"```
+- ```wsdl2.js-ssl [serviceName] [/local/path/to/wsdl] -pfx=[/local/path/to/pfx_p12] -passphrase="password"```
 
 The new options ``-pfx`` and ```-passphrase``` are optional. Are only needed for TLS/SSL.
 
